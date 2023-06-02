@@ -8,7 +8,7 @@ body{
     user-select: none;
     background-image: conic-gradient(from 90deg at 70% 50%, white, #215e0f),
     conic-gradient(from 270deg at 30% 50%, #215e0f, white);
-    -webkit-mask-image: radial-gradient(100% 50% at center center, black, transparent);
+    -webkit-mask-image: radial-gradient(100% 50% at center center, rgb(0, 0, 0), transparent);
     background-position-x: 0%, 100%;
     background-position-y: 0%, 0%;
     background-size: 50% 100%, 50% 100%;
